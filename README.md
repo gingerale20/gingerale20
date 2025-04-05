@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+@gingerale20;I+am+developing:;A+TCP+based+CLI+chat+system;A+terminal+MUD+reminiscent+game;I+suck+at+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+@gingerale20;:-[;I+suck+at+JS)](https://git.io/typing-svg)
 
 <!---
 gingerale20/gingerale20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
